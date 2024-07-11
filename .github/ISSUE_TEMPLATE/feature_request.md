@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 status: Ready
-project: untitled project
+project: "Test Project"
 
 ---
 
